@@ -1,9 +1,9 @@
 //reverse all elements in the array
 
-// const array=[12,9,8,7,6,5]
-// for(let i=array.length;i>=0;i--) {
-//     console.log(array[i]);
-// }
+const array=[12,9,8,7,6,5]
+for(let i=array.length;i>=0;i--) {
+    console.log(array[i]);
+}
 
 // const array=[12,9,8,7,6,5];
 // let start=0;
