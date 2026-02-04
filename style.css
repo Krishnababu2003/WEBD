@@ -1,0 +1,22 @@
+.container {
+    background-color: aqua;
+    font-size: 20px;
+    border: 20px solid red;
+    border-radius: 10px;
+}
+.button-class {
+    background-color: green;
+}
+
+#button1 {
+    background-color: red;
+}
+
+#button2 {
+    background-color: gray;
+}
+
+#button3 {
+    background-color: violet;
+}
+
